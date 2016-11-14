@@ -1,0 +1,48 @@
+body {
+   	background-color: #e6f0ff;
+}
+h1{
+	font-family: Tahoma, Geneva, san-serif;
+	color: #FF0000;
+}
+.stylebuttons{
+	color: #FFFFFF;
+	background-color: #FF0000;
+	font-size: 20px; 
+	font-family: Arial, Helvetia, sans-seri;
+	padding: 20px;
+	border-radius: 60px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	cursor: pointer;
+}
+.stylebuttons:hover{
+	color:white;
+	background-color: green;
+}
+.letusbutton{
+	color: #FFFFFF;
+	background-color: #FF0000;
+	font-size: 20px; 
+	font-family: Arial, Helvetia, sans-seri;
+	padding: 20px;
+	border-radius: 60px;
+	cursor: pointer;
+}
+.letusbutton:hover{
+	color:white;
+	background-color: green;
+}
+
+.homeblock{
+	text-align: center;
+	padding:40px;
+	
+}
+.carrousel{
+	padding: 45px;
+	background-color: #66a3ff;
+	border: 3px solid black;
+	
+	
+}
