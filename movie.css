@@ -51,21 +51,16 @@ h1{
 	
 }
 
-.paymentblock{
-	text-align: left;
-	padding:40px;
-	background-color: #66a3ff;
-	border: 3px solid black;
-}
 
 .seatitem{
 	text-align: left;
-	padding:40px;
-		
+	padding:5px;
+	background-color: #66a3ff;
+	border: 3px solid black;	
 }
 
 .total{
-	text-align: right;
+	text-align: left;
 	padding:40px;
 
 }
