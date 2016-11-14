@@ -5,6 +5,7 @@ h1{
 	font-family: Tahoma, Geneva, san-serif;
 	color: #FF0000;
 }
+
 .stylebuttons{
 	color: #FFFFFF;
 	background-color: #FF0000;
@@ -16,10 +17,12 @@ h1{
     transition-duration: 0.4s;
 	cursor: pointer;
 }
+
 .stylebuttons:hover{
 	color:white;
 	background-color: green;
 }
+
 .letusbutton{
 	color: #FFFFFF;
 	background-color: #FF0000;
@@ -29,6 +32,7 @@ h1{
 	border-radius: 60px;
 	cursor: pointer;
 }
+
 .letusbutton:hover{
 	color:white;
 	background-color: green;
@@ -39,10 +43,29 @@ h1{
 	padding:40px;
 	
 }
+
 .carrousel{
 	padding: 45px;
 	background-color: #66a3ff;
 	border: 3px solid black;
 	
-	
+}
+
+.paymentblock{
+	text-align: left;
+	padding:40px;
+	background-color: #66a3ff;
+	border: 3px solid black;
+}
+
+.seatitem{
+	text-align: left;
+	padding:40px;
+		
+}
+
+.total{
+	text-align: right;
+	padding:40px;
+
 }
