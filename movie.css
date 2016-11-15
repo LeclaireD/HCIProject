@@ -51,14 +51,6 @@ h1{
 	
 }
 
-
-.seatitem{
-	text-align: left;
-	padding:5px;
-	background-color: #66a3ff;
-	border: 3px solid black;	
-}
-
 .block {
 	margin: auto;
 	width:50%;
@@ -66,4 +58,9 @@ h1{
 	background-color: #66a3ff;
 	border: 3px solid black;
 
+}
+
+.total{
+	text-align: center;
+	padding:40px;
 }
