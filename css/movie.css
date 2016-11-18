@@ -75,6 +75,22 @@ h1{
 	
 
 }
+
+/*Let Us Pick Movie Poster */
+ .lupmovie{
+ margin-left: 25%;
+ border-radius: 20px;
+ border:5px solid #3c2daf;
+ }
+ 
+ /*Let us Pick Details*/
+ .lupdetails{
+ 	font-size: 25px; 
+ 	font-weight: bold;
+ 	font-family: Arial, Helvetia, sans-seri;
+ 	padding: 20px;
+ }
+
 .timeButton{
 	color: #FFFFFF;
 	background-color: grey;
