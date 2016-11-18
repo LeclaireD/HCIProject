@@ -27,7 +27,7 @@ window.location.href='seatselector.html';
 /*Adam stuff*/
 
 $('#m1').click(function(){
-	document.getElementById("poster").src = "juice.jpg"
+	document.getElementById("poster").src = "../images/juice.jpg"
 	document.getElementById("movieName").innerHTML = "BeetleJuice"
 	document.getElementById("movieTime").innerHTML = "Not Chosen"
 	
@@ -54,7 +54,7 @@ $('#m1').click(function(){
 	});
 
 $('#m2').click(function(){
-	document.getElementById("poster").src = "eleven.jpeg"
+	document.getElementById("poster").src = "../images/eleven.jpeg"
 	document.getElementById("movieName").innerHTML = "Ocean's Elven"
 	document.getElementById("movieTime").innerHTML = "Not Chosen"
 	
@@ -81,7 +81,7 @@ $('#m2').click(function(){
 	});
 
 $('#m3').click(function(){
-	document.getElementById("poster").src = "skyfall.jpg"; 
+	document.getElementById("poster").src = "../images/skyfall.jpg"; 
 	document.getElementById("movieName").innerHTML = "Skyfall"
 	document.getElementById("movieTime").innerHTML = "Not Chosen"
 	
