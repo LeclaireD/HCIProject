@@ -28,7 +28,7 @@ window.location.href='seatselector.html';
 
 $('#m1').click(function(){
 	document.getElementById("poster").src = "../images/juice.jpg"
-	document.getElementById("movieName").innerHTML = "BeetleJuice"
+	document.getElementById("movieName").innerHTML = "Beetle Juice"
 	document.getElementById("movieTime").innerHTML = "Not Chosen"
 	
 	document.getElementById("m1t1").className = "timeButtonOn"
