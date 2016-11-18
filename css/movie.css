@@ -20,6 +20,14 @@ h1{
 	color:white;
 	background-color: green;
 }
+.stylebuttonsOff{
+	color: #FFFFFF;
+	background-color: grey;
+	font-size: 20px; 
+	font-family: Arial, Helvetia, sans-seri;
+	padding: 20px;
+	border-radius: 60px;
+}
 .letusbutton{
 	color: #FFFFFF;
 	background-color: blue;
