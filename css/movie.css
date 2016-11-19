@@ -4,6 +4,7 @@ body {
 h1{
 	font-family: Tahoma, Geneva, san-serif;
 	color: #FF0000;
+	text-align: center;
 }
 .stylebuttons{
 	color: #FFFFFF;
@@ -43,8 +44,7 @@ h1{
 }
 
 .homeblock{
-	text-align: center;
-	padding:40px;
+	margin-left: 375px
 	
 }
 .carrousel{
@@ -80,8 +80,6 @@ h1{
 	padding: 1px;
 	width: 250px;
 	margin: 5px;
-	
-
 }
 
 /*Let Us Pick Movie Poster */
