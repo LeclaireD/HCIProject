@@ -3,7 +3,7 @@ body {
 }
 h1{
 	font-family: Tahoma, Geneva, san-serif;
-	color: #FF0000;
+	color: black;
 	text-align: center;
 }
 .stylebuttons{
@@ -44,8 +44,10 @@ h1{
 }
 
 .homeblock{
-	margin-left: 375px
-	
+	margin-left: 375px	
+}
+.home{
+	text-align: center;
 }
 .carrousel{
 	padding: 45px;

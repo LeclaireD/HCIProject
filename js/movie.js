@@ -1,7 +1,5 @@
 $(document).ready(function(){
 
-
-
  $("#header").load("header.html"); 
 
 
@@ -161,8 +159,8 @@ $("#seven").click(function(){
 
 $(“#nine”).click(function(){
     $("p").hide();
-	*/	
 		
-});
+		
+});*/
 });
 
