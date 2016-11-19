@@ -1,9 +1,10 @@
 body {
-   	background-color: #9999ff;
+   	background: linear-gradient(to right, #b3d1ff, #0066ff, #b3d1ff);
 }
 h1{
 	font-family: Tahoma, Geneva, san-serif;
-	color: #FF0000;
+	color: black;
+	text-align: center;
 }
 .stylebuttons{
 	color: #FFFFFF;
@@ -20,9 +21,17 @@ h1{
 	color:white;
 	background-color: green;
 }
+.stylebuttonsOff{
+	color: #FFFFFF;
+	background-color: grey;
+	font-size: 20px; 
+	font-family: Arial, Helvetia, sans-seri;
+	padding: 20px;
+	border-radius: 60px;
+}
 .letusbutton{
 	color: #FFFFFF;
-	background-color: #FF0000;
+	background-color: blue;
 	font-size: 20px; 
 	font-family: Arial, Helvetia, sans-seri;
 	padding: 20px;
@@ -35,9 +44,18 @@ h1{
 }
 
 .homeblock{
+	margin-left: 375px;	
+}
+.paymentBlock{
+	margin-left: 300px;
+	text-align: left;	
+}
+.home{
 	text-align: center;
-	padding:40px;
-	
+}
+.total{
+	margin-left: 300px;
+	text-align: left;
 }
 .carrousel{
 	padding: 45px;
@@ -49,7 +67,7 @@ h1{
 	float: left;
 	clear: right;
 	width: 250px;
-	background-color: #66a3ff;
+	background-color: #54a2ec;
 	border: 3px solid black;
 	text-align: center;
 }
@@ -72,8 +90,6 @@ h1{
 	padding: 1px;
 	width: 250px;
 	margin: 5px;
-	
-
 }
 
 /*Let Us Pick Movie Poster */
