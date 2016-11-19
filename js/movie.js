@@ -117,5 +117,28 @@ $('#m3t1').click(function(){document.getElementById("movieTime").innerHTML = "4:
 $('#m3t2').click(function(){document.getElementById("movieTime").innerHTML = "8:30pm"});
 $('#m3t3').click(function(){document.getElementById("movieTime").innerHTML = "9:00pm"});
 
+	/*idk what i am doing 
+$("#one").click(function(){
+    $("#oneTime”).hide();
+});
+
+
+$("#three").click(function(){
+    $("m2").toggle();
+});
+
+$("#five").click(function(){
+    $("m3").hide();
+});
+
+$("#seven").click(function(){
+    $("p").hide();
+});
+
+$(“#nine”).click(function(){
+    $("p").hide();
+	*/	
+		
+});
 });
 
