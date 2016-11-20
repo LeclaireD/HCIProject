@@ -143,11 +143,7 @@ h1{
 cursor: pointer;
 padding-left: 20px;
 }
-#seatselector{
-	position: absolute;
-	left: 50px;
-	top: 450px;
-}
+
 
 
 
@@ -196,7 +192,26 @@ padding-left: 20px;
 margin-left: 20%;
 }
 
+/* block of choose by date */
+.timeBlock{
+margin-left: 375px;	
+font-size: 20px; 
+	font-family: Arial, Helvetia, sans-seri;
+    	border: 3px solid black;
+	padding: 2%;
+	width: 45%;
+}
 
+/* placement of buttons to seat selection*/
+.movieButton{
+margin-left: 300px;	
+    padding: 2%;
+	width: 45%;
+}
+/* placement of buttons to seat selection*/
+.chooseButton{
+margin-left: 45%;
+}
 
 
 
