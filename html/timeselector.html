@@ -1,14 +1,37 @@
 <!DOCTYPE html>
 <html>
-<body>
 <head>
 <link rel="stylesheet" href="../css/movie.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script type="text/javascript" src="../js/movie.js"></script>
 
- <button class= "stylebuttons" id = "seatselector" >Choose Seats</button>
+  <title> Day selector </title>
+   <h1> Day selector </h1>
+   
+   </head>
+   
+   <body>
+<div class = sideBar> 
+		<div class = movieBox>
+		<img id = "poster" src="../images/reel.png" alt="real" style="width:200px;height:300px;">
+		</div>
+	<br>
+	Selected Movie: <b><span id = "movieName">Not Chosen</span></b>
+	<br>
+	Selected Time: <b><span id = "movieTime">Not Chosen</span></b>
+	<br>
+<br>
 
-
-</head>
-</body>
-</html>
+	</div>
+    
+    <br> 
+    <br>
+<div class = timeBlock>
+<form>
+  Date:
+  <br>
+  <input type="date" name="bday" min="2016-11-21" max= "2016-12-30">
+</form>
+<br>
+ <button class= stylebuttons id = "seatselector">Choose Seats</button>
+</div>
